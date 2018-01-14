@@ -1,2 +1,3 @@
-# extjs
-Ext JS (GPL)
+# Ext JS (GPL)
+
+Each version is on a branch by its nane.
