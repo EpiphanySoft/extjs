@@ -1,6 +1,7 @@
 {
   "name": "@epiphanysoft/extjs",
   "version": "6.2.0",
+  "main": "index.js",
   
   "sencha": {
     "name": "ext",
